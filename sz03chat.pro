@@ -14,3 +14,5 @@ HEADERS += \
 win32{
 LIBS += -lws2_32
 }
+
+CONFIG += c++11

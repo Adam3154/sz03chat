@@ -20,6 +20,7 @@
 #include <QThread>
 #include <QFileInfo>
 #include <QFile>
+#include <QString>
 #include "chatdef.h"
 
 #include <QJsonDocument>
