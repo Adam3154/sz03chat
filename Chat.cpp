@@ -1,5 +1,6 @@
 #include "Chat.h"
 
+//web
 
 Chat::Chat(QObject *parent) : QObject(parent)
 {
